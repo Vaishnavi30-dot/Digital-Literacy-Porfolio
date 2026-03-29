@@ -1,1 +1,17 @@
+Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.
 
+
+Subject: Request for extension of CSE0001 assignment submission due date.
+
+Dear Professor Hariharan,
+
+I hope you are doing well. I'm writing to request an extension on the CSE0001 Digital Literacy assignment, which is due on March 31, 2026.
+
+Because of an unexpected overlap of three major projects due this week, its been hard for me to find the time to work on the quality of work I wish to achieve in this course. This has resulted in a delay in my project submission. I have begun the work already, and I'm certain that with a bit more time I can submit a more complete and well-organized project. I would be grateful if it would be possible to extend the deadline to the 5th of April, 2026. However, I understand if it is not possible, and I will accept your decision to do my best to meet the deadline.
+
+Thank you for considering my request.
+
+Sincerely,
+Vaishnavi Jain
+25BME10015
+Mechanical Core (First Year)
