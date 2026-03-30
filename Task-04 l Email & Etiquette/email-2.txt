@@ -1,0 +1,20 @@
+Write an email from a student to an internship coordinator at a company, expressing interest in a summer internship opportunity.
+
+
+Subject: Inquiry about summer internship availability.
+
+Dear Sir,
+
+My name is Vaishnavi Jain, and I am a Mechanical First-year student at VIT Bhopal. I am emailing you to inquire about the possibility of doing a summer internship with CoreNode. I am currently
+learning the basics of digital literacy, programming in Python, and CAD,CAE and how to communicate professionally. I would like to gain real-world experience applying what I have 
+learned thus far. I have a strong interest in both CAD AND CAE in designing part of Vehicles or application development, and I want to learn by working with experts at your company.
+Please let me know if there are any internships available for first-year students, or if there is a process I should follow to apply. I would be happy to share my resume or any additional
+information you may require.
+
+Thank you for your time and consideration. I hope to hear from you soon.
+
+Sincerely,
+Vaishnavi Jain
+25BME10015
+Mechanical Core (First Year)
+vaishnavi.25bme10015@vitbhopal.ac.in
