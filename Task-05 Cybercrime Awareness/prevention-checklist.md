@@ -1,5 +1,8 @@
 "Stay Safe Online" Checklist for College Students in India
 
+
+
+
 .Use strong, unique passwords for important accounts and enable two-factor authentication wherever possible.
 
 .Never share your OTP, UPI PIN, or password with anyone, even if they claim to be from a bank or company.
