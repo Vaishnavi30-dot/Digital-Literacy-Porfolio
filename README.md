@@ -59,9 +59,9 @@ Deliverable: A detailed case study on a specific cybercrime and a "Stay Safe Onl
 Focus: Promoting financial/UPI safety and awareness of national reporting channels.
 
 ## Project Links
-GitHub Repository: [Insert your repo link here] 
+GitHub Repository: https://github.com/Vaishnavi30-dot/Digital-Literacy-Porfolio.git
 
-Digital Literacy Quiz (Task 3): [Insert your Google Form link here] 
+Digital Literacy Quiz (Task 3): https://forms.gle/KmW5YRrkv8LQUa3S6
 
 National Cyber Crime Reporting Portal: cybercrime.gov.in 
 
